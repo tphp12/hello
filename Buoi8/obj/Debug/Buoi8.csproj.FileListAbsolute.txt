@@ -1,0 +1,8 @@
+D:\huflit\LTDT\Buoi8\Buoi8\obj\Debug\Buoi8.csproj.AssemblyReference.cache
+D:\huflit\LTDT\Buoi8\Buoi8\obj\Debug\Buoi8.csproj.SuggestedBindingRedirects.cache
+D:\huflit\LTDT\Buoi8\Buoi8\obj\Debug\Buoi8.csproj.CoreCompileInputs.cache
+D:\huflit\LTDT\Buoi8\Buoi8\bin\Debug\Buoi8.exe.config
+D:\huflit\LTDT\Buoi8\Buoi8\bin\Debug\Buoi8.exe
+D:\huflit\LTDT\Buoi8\Buoi8\bin\Debug\Buoi8.pdb
+D:\huflit\LTDT\Buoi8\Buoi8\obj\Debug\Buoi8.exe
+D:\huflit\LTDT\Buoi8\Buoi8\obj\Debug\Buoi8.pdb
