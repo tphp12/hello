@@ -11,6 +11,7 @@ namespace Buoi8
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("My name is Huy");
             // Xuất text theo Unicode (có dấu tiếng Việt)
             Console.OutputEncoding = Encoding.Unicode;
             // Nhập text theo Unicode (có dấu tiếng Việt)
